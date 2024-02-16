@@ -1,0 +1,1 @@
+10.22.0.4  exemplo.lan www.exemplo.lan
